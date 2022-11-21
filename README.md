@@ -1,7 +1,7 @@
 # maps-playground
 Interactive maps with NextJS, TypeScript and MUI
 
-Deployment: [TBD]
+Deployment: [maps-playground.vercel.app](https://maps-playground.vercel.app/)
 
 ### Map 1: Distance on Earth
 Using MapLibre GL JS. Basic styles. Generating markers on click. Calculating distance and drawing a line between markers.
